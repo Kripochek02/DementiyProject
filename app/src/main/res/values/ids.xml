@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="firstBtn" type="id" />
+    <item name="startBtn" type="id" />
+    <item name="emeilET" type="id" />
+    <item name="secondBtn" type="id" />
+    <item name="TextView4" type="id" />
+    <item name="editText" type="id" />
+</resources>
